@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="tab_text_1">Songs</string>
+    <string name="tab_text_2">Albums</string>
+    <string name="tab_text_3">Artists</string>
+    <string name="tab_text_4">Now Playing</string>
+
+
+    <string name="section_format">Section text. Taken from strings.xml</string>
+
+    <string name="song_one_name">Sanam Re</string>
+    <string name="song_one_singer_name">Arman Malik , Palak Muchhal</string>
+
+    <string name="song_two_name">Stay A Little Longer </string>
+    <string name="song_two_singer_name">Anushka Shahaney</string>
+
+    <string name="song_three_name">Soja Jara</string>
+    <string name="song_three_singer_name">Madhushree</string>
+
+    <string name="song_four_name">Duaa</string>
+    <string name="song_four_singer_name">Arjit Singh, Nandani Srikar</string>
+
+
+    <string name="song_five_name">Tere Sang Yara</string>
+    <string name="song_five_singer_name">Atif Aslam</string>
+
+    <string name="song_six_name">Zindagi Do Pal</string>
+    <string name="song_six_singer_name">K K</string>
+
+    <string name="song_seven_name">Teri Saanson Main</string>
+    <string name="song_seven_singer_name">Arijit Singh, Palak Muchhal</string>
+
+    <string name="song_eight_name">Humsafar</string>
+    <string name="song_eight_singer_name">Akhil Sachadeva, Alia Bhatt</string>
+
+    <string name="song_nine_name">Jumme Ki Raat</string>
+    <string name="song_nine_singer_name">Mika Singh, Palak Muchhal</string>
+
+    <string name="song_ten_name">Baarish</string>
+    <string name="song_ten_singer_name">Shashaa Tirupati, Ash King</string>
+
+    <string name="album_one_name">Badrinath Ki Dulhania</string>
+    <string name="album_two_name">Bhubali</string>
+    <string name="album_three_name">Half Girl Friend</string>
+    <string name="album_four_name">Kick</string>
+    <string name="album_five_name">Kites</string>
+    <string name="album_six_name">Sanam Re</string>
+    <string name="album_seven_name">Shanghai</string>
+
+    <string name="album_one_singer">Alia Bhatt - PagalWorld.com</string>
+    <string name="album_two_singer">Madhushree - PagalWorld</string>
+    <string name="album_three_singer">Ash King - PagalWorld</string>
+    <string name="album_four_singer">Mika Singh, Palak Muchhal</string>
+    <string name="album_five_singer">K K - PagalWorld</string>
+    <string name="album_six_singer">Arman Malik , Palak Muchhal</string>
+    <string name="album_seven_singer">Arjit Singh - PagalWorld</string>
+
+    <string name="artists_album">1 album</string>
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search</string>
+
+
+
+</resources>
